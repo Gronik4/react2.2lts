@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/Gronik4/react2.2lts.git",
+  "homepage": "https://gronik4.github.io/react2.2lts/",
   "eslintConfig": {
     "extends": [
       "react-app",
